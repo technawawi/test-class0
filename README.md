@@ -14,3 +14,5 @@ ___
 ### **Jangan merubah code yang ada di \_\_main\_\_.py**
 
 Jika ingin mencoba hasil selama pengerjaan gunakan command "python -m soal2" atau "python3 -m soal1, dan pastikan kalian berada di root folder /test-class0
+
+### Link Introduction Ujian: [Link](https://drive.google.com/file/d/1Ouz7FWy06UCZ4vnDn6Q9uDbHEJF9gIKL/view?usp=sharing)
