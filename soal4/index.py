@@ -1,5 +1,6 @@
 # start code here
-from custom_function.index import fungsiKustomku
+from custom_function.index import customRange, printnln
 
-def soal4(input):
-  pass # Tuliskan logic kalian di sini. Hapus 'pass'!
+
+
+
